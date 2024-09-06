@@ -5,6 +5,7 @@
 The Advanced Document Rephrasing App is a powerful tool designed to rephrase and customize text in various styles using state-of-the-art language models. This application leverages the capabilities of Google's Generative AI (Gemini) and local Ollama models to provide users with flexible and context-aware text rephrasing options.
 
 ![App Screenshot](app_screenshot.png)
+![App url](https://yahia-advanced-document-rephrasing-app.streamlit.app/)
 
 ## Features
 
