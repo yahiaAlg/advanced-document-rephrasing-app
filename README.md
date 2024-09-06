@@ -20,7 +20,7 @@ The Advanced Document Rephrasing App is a powerful tool designed to rephrase and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/advanced-document-rephrasing-app.git
+git clone https://github.com/yahiaAlg/advanced-document-rephrasing-app.git
 cd advanced-document-rephrasing-app
 ```
 
